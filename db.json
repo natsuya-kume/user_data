@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "jess",
+      "age": 22,
+      "image": "https://joeschmoe.io/api/v1/jess",
+      "self_introduction": "Ipsam eos repellat consequatur quo aut."
+    },
+    {
+      "id": "2",
+      "name": "jon",
+      "age": 25,
+      "image": "https://joeschmoe.io/api/v1/jon",
+      "self_introduction": "Hic aspernatur error consequatur quam similique explicabo molestiae quae laborum."
+    },
+    {
+      "id": "3",
+      "name": "julie",
+      "age": 18,
+      "image": "https://joeschmoe.io/api/v1/julie",
+      "self_introduction": "My name is julie. Nice to meet you!!"
+    },
+    {
+      "id": "4",
+      "name": "jia",
+      "age": 27,
+      "image": "https://joeschmoe.io/api/v1/jia",
+      "self_introduction": "I work at school.🏫 Feel free to talk to me!!"
+    },
+    {
+      "id": "5",
+      "name": "jazebelle",
+      "age": 23,
+      "image": "https://joeschmoe.io/api/v1/jazebelle",
+      "self_introduction": "I am 23 years old!. My hobby is programming.🖥"
+    }
+  ]
+}
